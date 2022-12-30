@@ -22,7 +22,7 @@ Therefore, this repo includes code that is used to research ways to improve this
     ```
 3. Open Jupyter notebook by making use of this command:
     ```
-    jupyter notebook
+    jupyter-lab
     ```
 4. Explore each one of the folders and modify it to your liking :)
 
